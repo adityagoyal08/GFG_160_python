@@ -26,6 +26,3 @@ With progress tracking, this self-paced course ensures you can monitor your impr
 
 Whether you’re a student preparing for campus placements or a working professional looking to stay sharp, **GfG160** is tailored to provide you with the essential problems you need for interview preparation. The curated list covers all important problem types and concepts to help you succeed in technical interviews.
 
----
-
-Feel free to customize this README file further to suit your needs. If you have any specific sections or details you'd like to add, let me know!
